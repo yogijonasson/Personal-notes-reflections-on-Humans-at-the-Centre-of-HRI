@@ -1,6 +1,7 @@
 # NAVER LABS Europe — 3rd International HRI Symposium
 
-Research notes and reflections on **Humans at the Centre of HRI**.
+Personal notes and reflections on **Humans at the Centre of HRI**.
+*These are personal notes, supplemented with related publications and project resources. They are not official proceedings or a transcript.
 
 | | |
 | --- | --- |
