@@ -17,7 +17,7 @@ I attended the 3rd International Human–Robot Interaction (HRI) Symposium organ
 
 The symposium explored how robots can interact, collaborate, and coexist with humans in real-world environments. A recurring theme was the need to move beyond technical performance and consider the social, organizational, and temporal dimensions of human–robot interaction.
 
-This README consolidates my symposium notes, related research publications, and personal reflections. The morning session is covered in greater detail because it was the primary focus of my notes. The afternoon summaries are based on the programme and related research rather than detailed firsthand notes. Interpretations and potential research directions are my own, not necessarily claims made by the speakers.
+This README consolidates my symposium notes, related research publications, and personal reflections. Interpretations and potential research directions are my own, not necessarily claims made by the speakers.
 
 ## Table of contents
 
